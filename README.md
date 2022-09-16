@@ -1,0 +1,1 @@
+### Tarefa de Sistemas Distribuidos de Atualizar Placar de um Jogo
